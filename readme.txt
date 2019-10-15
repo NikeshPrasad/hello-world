@@ -1,0 +1,1 @@
+This is a readme text file created while learning git from "Git-it".
